@@ -1,7 +1,7 @@
 /* Web Fonts -------------------- */
 
 @font-face {
- font-family: 'Abolition Regular'; 
+ font-family: 'Abolition Regular';
   src: url('../fonts/abolition-regular-webfont.eot');
   src: url('../fonts/abolition-regular-webfont.eot?#iefix') format('embedded-opentype'),
        url('../fonts/abolition-regular-webfont.woff') format('woff'),
@@ -25,7 +25,7 @@ h2 {
   font-family: 'Abolition Regular', Helvetica, Arial, sans-serif;
 }
 
-h1 {  
+h1 {
   font-size: 5.625rem; /* 90px/16px  */
   color: rgba(255, 255, 255, 1);
   text-transform: uppercase;
@@ -88,12 +88,12 @@ a:active {
 .main-header {
   padding-top: 170px;
   height: 850px;
-  
-  background: 
-             linear-gradient(#ffa949, transparent 90%), 
+
+  background:
+             linear-gradient(#ffa949, transparent 90%),
              linear-gradient(0deg, #fff, transparent),
-             #ffa949 url('../img/mountains.jpg') no-repeat center;
-  
+             #ffa949 url('img/IMG_9839.jpg') no-repeat center;
+
   background-size: cover;
 }
 
@@ -108,7 +108,7 @@ a:active {
 
 .intro {
   font-size: 1.25em; /* 20px/16px */
-  line-height: 1.6;  
+  line-height: 1.6;
 }
 
 .primary-content,
@@ -148,7 +148,7 @@ a:active {
 
 /* Layout Styles ------------------ */
 
-.primary-content, 
+.primary-content,
 .secondary-content {
   width: 75%;
   padding-left: 50px;
@@ -166,7 +166,7 @@ a:active {
   background: #434a52 url('../img/bear.jpg') no-repeat center;
   background-size: cover;
   box-shadow: inset 0 0 50px 10px rgba(0,0,0, 1);
-  
+
   border-radius: 10px;
 }
 
@@ -218,12 +218,12 @@ a:active {
      width: 100%;
      padding: 20px;
      border-top: none;
-}  
+}
   .main-header: {
      max-height: 380px;
      padding: 50px 25px 0;
     }
-    
+
  .title {
     font-size: 1.3rem;
     border: none;
@@ -235,11 +235,11 @@ a:active {
 }
 
 .arrow {
-    display: none; 
+    display: none;
 }
 
 .intro {
-    font-size: 1rem; 
+    font-size: 1rem;
 }
 
 .resorts,
@@ -272,17 +272,7 @@ a:active {
     background: seagreen;
 }
    p {
-    color: white; 
+    color: white;
 }
 }
 */
-
-
-
-
-
-
-
-
-
-
